@@ -1,9 +1,13 @@
 # Parser of Nginx Logs
 
 # Live Demo:
+## Ngingx Logs
 http://91.142.74.252:8001/parser/nginx_logs
 
-superuser (Yes, I know it is not safe to make it public. I do it just for app-demonstration purposes):
+## Docs (Swagger):
+http://91.142.74.252:8001/docs
+
+superuser (Yes, I know it is NOT safe to make it public. I do it just for app-demonstration purposes):
 login: admin
 password: admin
 
